@@ -1,4 +1,3 @@
-
 const db = require('../util/db');
 const { isEmptyOrNull } = require('../util/service');
 
